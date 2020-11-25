@@ -1,0 +1,4 @@
+2020-11-22T17:36:26+00:00 CRITICAL syntax error, unexpected ''sharp'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/sandy/Local Sites/sharp/app/public/wp-content/themes/sharp/single.php on line 23
+
+2020-11-22T18:08:07+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in /Users/sandy/Local Sites/sharp/app/public/wp-content/themes/sharp/inc/template-tags.php on line 10
+
